@@ -1,7 +1,7 @@
 # Term
 
 Repository (Repo): Thu muc du an 
-Branch
+Branch: nhanh, canh
 
 # Commands
 
@@ -12,6 +12,6 @@ Branch
 - git commit: chinh thuc luu (note truoc khi luu)
 - git log: xem thoi diem da luu
 - git log --oneline: gon hon
-- git checkout {branch name}
+- git checkout {branch name}: tro lai 
 - git branch
 - git checkout -b {branch name}
