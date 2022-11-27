@@ -2,6 +2,7 @@
 
 Repository (Repo): Thu muc du an 
 Branch: nhanh, canh
+Conflict: xung dot 
 
 # Commands
 
