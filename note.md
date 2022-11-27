@@ -15,3 +15,5 @@ Branch: nhanh, canh
 - git checkout {branch name}: tro lai 
 - git branch
 - git checkout -b {branch name}
+- git merge {branch name}: gop lai tat ca
+- git branch -d {branch name}
