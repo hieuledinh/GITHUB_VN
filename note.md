@@ -3,6 +3,8 @@
 Repository (Repo): Thu muc du an 
 Branch: nhanh, canh
 Conflict: xung dot 
+Local
+remote
 
 # Commands
 
@@ -18,3 +20,4 @@ Conflict: xung dot
 - git checkout -b {branch name}
 - git merge {branch name}: gop lai tat ca
 - git branch -d {branch name}
+- git push: day len repo
